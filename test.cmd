@@ -1,7 +1,7 @@
 git add -A
 git commit -m "test"
-set GIT_COMMITTER_DATE="Wed Mar 30 01:02 2016 +0104" 
-git commit --amend --date="Wed Mar 30 01:02 2016 +0104"
+set GIT_COMMITTER_DATE="Tue Mar 29 01:04 2016 +0104" 
+git commit --amend --date="Tue Mar 29 01:04 2016 +0104"
 git push -u
 
 :git remote add origin https://github.com/dimwap/TEST-commit.git
