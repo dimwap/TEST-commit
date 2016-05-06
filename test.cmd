@@ -1,6 +1,6 @@
 git add -A
 git commit -m "test"
-set GIT_COMMITTER_DATE="Fri Apr 29 02:09 2016 +0104" 
+set GIT_COMMITTER_DATE="Fri May 6 02:09 2016 +0104" 
 git commit --amend --date=%GIT_COMMITTER_DATE%
 
 :"Wed Apr 20 02:04 2016 +0104"
